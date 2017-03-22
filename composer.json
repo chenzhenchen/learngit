@@ -1,5 +1,5 @@
 {
-  "name":"chenzhenchen"
+  "name":"chenzhenchen",
   "require":{
     "monolog/monolog":"~1.0"
   }
